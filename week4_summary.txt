@@ -1,0 +1,10 @@
+Week 4 Predictive Modeling Summary
+Dataset is simulated for educational purposes.
+
+            model  MAE_hours  RMSE_hours  R2_score
+Linear Regression   1.513412    1.867064  0.903687
+    Random Forest   1.775376    2.219479  0.863897
+Baseline (median)   4.944700    6.016916 -0.000258
+
+Best model by MAE: Linear Regression
+Lower MAE/RMSE indicates smaller prediction errors; R² describes variance explained.
